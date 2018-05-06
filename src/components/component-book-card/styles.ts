@@ -3,21 +3,19 @@ import styled from 'styled-components';
 export const Container = styled.div`
     width: 1081px;
     height: 661px;
-    background-color: #59ed;
     display: flex;
     flex-direction: row;
+    margin-bottom: 198px;
 `
 
 export const BookHolder = styled.div`
     height: 100%;
     width: 435px;
-    background-color: #439
 `
 
 export const TextHolder = styled.div`
     width: 636px;
     height: 100%;
-    background-color: #59a;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -26,9 +24,6 @@ export const TextHolder = styled.div`
 
 export const Title = styled.text`
     width: 100%;
-    background-color: #959;
-    // display: inline-block;
-    height: 63px;
     margin: 0;
     font-family: AvenirNext-DemiBold;
     font-size: 46px;
@@ -38,7 +33,6 @@ export const Title = styled.text`
 
 export const Author = styled.text`
     width: 100%;
-    background-color: #347;
     height: 25px;
     font-family: AvenirNext-Regular;
     font-size: 18px;
@@ -50,7 +44,6 @@ export const Author = styled.text`
 export const Description = styled.text`
     width: 100%;
     height: 100%;
-    background-color: #fff;
     font-family: AvenirNext-Regular;
     font-size: 18px;
     line-height: 1.6;
