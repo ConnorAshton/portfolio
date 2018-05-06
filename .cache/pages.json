@@ -28,17 +28,24 @@
         "path": "/"
     },
     {
-        "componentChunkName": "component---src-pages-page-2-tsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "page-2.json",
-        "path": "/page-2/"
-    },
-    {
         "componentChunkName": "component---src-pages-404-tsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-about-tsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "about.json",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-pages-bookshelf-tsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "bookshelf.json",
+        "path": "/bookshelf/"
     }
 ]
