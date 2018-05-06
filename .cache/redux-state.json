@@ -1932,7 +1932,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f8c3e1f518d29bdde3bb38e3c0ac9b11",
+        "contentDigest": "15aa773ed44887c9576a9d25976fc76a",
         "owner": "internal-data-bridge"
       }
     },
@@ -1996,23 +1996,43 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /page-2/": {
+    "SitePage /about/": {
       "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/page-2.tsx",
-      "componentChunkName": "component---src-pages-page-2-tsx",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/about.tsx",
+      "componentChunkName": "component---src-pages-about-tsx",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/page-2.tsx",
-      "id": "SitePage /page-2/",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/about.tsx",
+      "id": "SitePage /about/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dfc758ffe2cc66e913990fdccb54b03b",
+        "contentDigest": "e4599937946eb46c7f175bede3ef25cf",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /bookshelf/": {
+      "layout": "index",
+      "jsonName": "bookshelf.json",
+      "internalComponentName": "ComponentBookshelf",
+      "path": "/bookshelf/",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/bookshelf.tsx",
+      "componentChunkName": "component---src-pages-bookshelf-tsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/bookshelf.tsx",
+      "id": "SitePage /bookshelf/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4bc537216280c3acb8321440ece9e559",
         "owner": "internal-data-bridge"
       }
     }
