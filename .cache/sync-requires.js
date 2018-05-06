@@ -24,7 +24,7 @@ exports.json = {
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/index.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
-  "page-2.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/page-2.json"),
+  "404-html.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404-html.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
-  "404-html.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404-html.json")
+  "page-2.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/page-2.json")
 }
