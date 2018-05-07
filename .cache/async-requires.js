@@ -5,9 +5,9 @@ exports.components = {
   "component---src-templates-page-tsx": require("gatsby-module-loader?name=component---src-templates-page-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/templates/page.tsx"),
   "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/connorashton/Development/connor-ashton-portfolio/.cache/dev-404-page.js"),
   "component---src-pages-404-tsx": require("gatsby-module-loader?name=component---src-pages-404-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/404.tsx"),
-  "component---src-pages-index-tsx": require("gatsby-module-loader?name=component---src-pages-index-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/index.tsx"),
   "component---src-pages-about-tsx": require("gatsby-module-loader?name=component---src-pages-about-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/about.tsx"),
-  "component---src-pages-bookshelf-tsx": require("gatsby-module-loader?name=component---src-pages-bookshelf-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/bookshelf.tsx")
+  "component---src-pages-bookshelf-tsx": require("gatsby-module-loader?name=component---src-pages-bookshelf-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/bookshelf.tsx"),
+  "component---src-pages-index-tsx": require("gatsby-module-loader?name=component---src-pages-index-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/index.tsx")
 }
 
 exports.json = {
@@ -18,13 +18,13 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "404.json": require("gatsby-module-loader?name=path---404!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
-  "index.json": require("gatsby-module-loader?name=path---index!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/index.json"),
-  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404-html.json"),
-  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "about.json": require("gatsby-module-loader?name=path---about!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/about.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
-  "bookshelf.json": require("gatsby-module-loader?name=path---bookshelf!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/bookshelf.json")
+  "bookshelf.json": require("gatsby-module-loader?name=path---bookshelf!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/bookshelf.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
+  "index.json": require("gatsby-module-loader?name=path---index!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/index.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404-html.json")
 }
 
 exports.layouts = {
