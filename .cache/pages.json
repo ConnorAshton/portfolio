@@ -56,10 +56,10 @@
         "path": "/404.html"
     },
     {
-        "componentChunkName": "component---src-pages-project-page-tsx",
+        "componentChunkName": "component---src-pages-nebula-live-tsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "project-page.json",
-        "path": "/project-page/"
+        "jsonName": "nebula-live.json",
+        "path": "/nebula-live/"
     }
 ]

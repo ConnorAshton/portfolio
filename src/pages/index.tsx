@@ -35,7 +35,7 @@ export default () => (
                   <ProjectCard image={luxModernImage} />
                   <ProjectCard image={fortyWinksImage} />
                   <ProjectCard image={babbelImage} />
-                  <Link to="/project-page/">
+                  <Link to="/nebula-live/">
                   <ProjectCard image={nebulaImage} />
                   </Link>
                   <ProjectCard image={drizzleApp}/>>

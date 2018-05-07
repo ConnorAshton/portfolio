@@ -1932,7 +1932,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6056b9390735e40689aeaf6c0633b4d0",
+        "contentDigest": "63f6bbd80b04b49bf31ab50af8cc7f35",
         "owner": "internal-data-bridge"
       }
     },
@@ -2056,23 +2056,23 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /project-page/": {
+    "SitePage /nebula-live/": {
       "layout": "index",
-      "jsonName": "project-page.json",
-      "internalComponentName": "ComponentProjectPage",
-      "path": "/project-page/",
-      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/project-page.tsx",
-      "componentChunkName": "component---src-pages-project-page-tsx",
+      "jsonName": "nebula-live.json",
+      "internalComponentName": "ComponentNebulaLive",
+      "path": "/nebula-live/",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx",
+      "componentChunkName": "component---src-pages-nebula-live-tsx",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/project-page.tsx",
-      "id": "SitePage /project-page/",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx",
+      "id": "SitePage /nebula-live/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "eb7c5e187b403b5e88192ff181a9e918",
+        "contentDigest": "f212c519f07df3182bacf62f4d7fa3fc",
         "owner": "internal-data-bridge"
       }
     }

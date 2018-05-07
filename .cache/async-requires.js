@@ -9,7 +9,7 @@ exports.components = {
   "component---src-pages-bookshelf-tsx": require("gatsby-module-loader?name=component---src-pages-bookshelf-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/bookshelf.tsx"),
   "component---src-pages-contact-tsx": require("gatsby-module-loader?name=component---src-pages-contact-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/contact.tsx"),
   "component---src-pages-index-tsx": require("gatsby-module-loader?name=component---src-pages-index-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/index.tsx"),
-  "component---src-pages-project-page-tsx": require("gatsby-module-loader?name=component---src-pages-project-page-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/project-page.tsx")
+  "component---src-pages-nebula-live-tsx": require("gatsby-module-loader?name=component---src-pages-nebula-live-tsx!/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx")
 }
 
 exports.json = {
@@ -30,7 +30,7 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404-html.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
-  "project-page.json": require("gatsby-module-loader?name=path---project-page!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/project-page.json")
+  "nebula-live.json": require("gatsby-module-loader?name=path---nebula-live!/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/nebula-live.json")
 }
 
 exports.layouts = {
