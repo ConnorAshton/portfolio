@@ -35,6 +35,13 @@
         "path": "/bookshelf/"
     },
     {
+        "componentChunkName": "component---src-pages-contact-tsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "contact.json",
+        "path": "/contact/"
+    },
+    {
         "componentChunkName": "component---src-pages-index-tsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -49,10 +56,10 @@
         "path": "/404.html"
     },
     {
-        "componentChunkName": "component---src-pages-contact-tsx",
+        "componentChunkName": "component---src-pages-nebula-live-tsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contact.json",
-        "path": "/contact/"
+        "jsonName": "nebula-live.json",
+        "path": "/nebula-live/"
     }
 ]

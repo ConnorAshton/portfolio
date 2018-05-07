@@ -12,8 +12,9 @@ exports.components = {
   "component---src-pages-404-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/404.tsx")),
   "component---src-pages-about-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/about.tsx")),
   "component---src-pages-bookshelf-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/bookshelf.tsx")),
+  "component---src-pages-contact-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/contact.tsx")),
   "component---src-pages-index-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/index.tsx")),
-  "component---src-pages-contact-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/contact.tsx"))
+  "component---src-pages-nebula-live-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx"))
 }
 
 exports.json = {
@@ -28,9 +29,11 @@ exports.json = {
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "bookshelf.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/bookshelf.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
+  "contact.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/contact.json"),
+  "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/index.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "404-html.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404-html.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
-  "contact.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/contact.json")
+  "nebula-live.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/nebula-live.json")
 }
