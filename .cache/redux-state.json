@@ -2035,6 +2035,26 @@
         "contentDigest": "77484d2232a0cb269828a77697645d13",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/contact.tsx",
+      "componentChunkName": "component---src-pages-contact-tsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/contact.tsx",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f055bf9527d72a51f626c5543c98dada",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
