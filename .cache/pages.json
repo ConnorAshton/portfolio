@@ -21,6 +21,20 @@
         "path": "/404/"
     },
     {
+        "componentChunkName": "component---src-pages-about-tsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "about.json",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-pages-bookshelf-tsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "bookshelf.json",
+        "path": "/bookshelf/"
+    },
+    {
         "componentChunkName": "component---src-pages-index-tsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -35,17 +49,10 @@
         "path": "/404.html"
     },
     {
-        "componentChunkName": "component---src-pages-about-tsx",
+        "componentChunkName": "component---src-pages-contact-tsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "about.json",
-        "path": "/about/"
-    },
-    {
-        "componentChunkName": "component---src-pages-bookshelf-tsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "bookshelf.json",
-        "path": "/bookshelf/"
+        "jsonName": "contact.json",
+        "path": "/contact/"
     }
 ]
