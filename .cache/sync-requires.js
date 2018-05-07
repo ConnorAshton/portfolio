@@ -10,9 +10,10 @@ exports.components = {
   "component---src-templates-page-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/templates/page.tsx")),
   "component---cache-dev-404-page-js": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/dev-404-page.js")),
   "component---src-pages-404-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/404.tsx")),
-  "component---src-pages-index-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/index.tsx")),
   "component---src-pages-about-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/about.tsx")),
-  "component---src-pages-bookshelf-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/bookshelf.tsx"))
+  "component---src-pages-bookshelf-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/bookshelf.tsx")),
+  "component---src-pages-index-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/index.tsx")),
+  "component---src-pages-contact-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/contact.tsx"))
 }
 
 exports.json = {
@@ -23,11 +24,13 @@ exports.json = {
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "404.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
+  "about.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/about.json"),
+  "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
+  "bookshelf.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/bookshelf.json"),
+  "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/index.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "404-html.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404-html.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
-  "about.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/about.json"),
-  "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
-  "bookshelf.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/bookshelf.json")
+  "contact.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/contact.json")
 }
