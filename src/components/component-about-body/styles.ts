@@ -5,6 +5,7 @@ export const Container = styled.div`
     height: 488px;
     margin: 0 auto;
     margin-top: 62px;
+    margin-bottom: 200px;
 `
 
 export const Text = styled.text`

@@ -1932,7 +1932,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "54de5b18f464cb43003610451b7a4188",
+        "contentDigest": "d655f3d3a9db8710f9e0c85d8156a59f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2053,6 +2053,26 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "50d356a9c9b8888c5a05b08d02029331",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /nebula-live/": {
+      "layout": "index",
+      "jsonName": "nebula-live.json",
+      "internalComponentName": "ComponentNebulaLive",
+      "path": "/nebula-live/",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx",
+      "componentChunkName": "component---src-pages-nebula-live-tsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx",
+      "id": "SitePage /nebula-live/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0b7b074a7fae17b24bf81cd9c5143824",
         "owner": "internal-data-bridge"
       }
     }
