@@ -50,6 +50,8 @@
     },
     {
         "componentChunkName": "component---src-pages-nebula-live-tsx",
+<<<<<<< HEAD
+=======
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "nebula-live.json",
@@ -57,9 +59,25 @@
     },
     {
         "componentChunkName": "component---src-pages-404-tsx",
+>>>>>>> 1d18d440899072ba1872773c0ff6049cf394af13
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "nebula-live.json",
+        "path": "/nebula-live/"
+    },
+    {
+<<<<<<< HEAD
+        "componentChunkName": "component---src-pages-404-tsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
+=======
+        "componentChunkName": "component---src-pages-mattbot-3000-tsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "mattbot-3000.json",
+        "path": "/mattbot-3000/"
+>>>>>>> 1d18d440899072ba1872773c0ff6049cf394af13
     }
 ]

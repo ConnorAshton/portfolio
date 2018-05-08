@@ -1932,7 +1932,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "b4f407e573b54d932358166829ef27c5",
+=======
+        "contentDigest": "0b03fb8cacbaa40a577c1c86fd22d8f1",
+>>>>>>> 1d18d440899072ba1872773c0ff6049cf394af13
         "owner": "internal-data-bridge"
       }
     },
@@ -2033,6 +2037,8 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "d25ca958dc8c0637d9d4f7366a818a70",
+<<<<<<< HEAD
+=======
         "owner": "internal-data-bridge"
       }
     },
@@ -2073,6 +2079,51 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "dd3e45811e75aa7f51180d7fd8d39ad1",
+>>>>>>> 1d18d440899072ba1872773c0ff6049cf394af13
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /mattbot-3000/": {
+      "layout": "index",
+      "jsonName": "mattbot-3000.json",
+      "internalComponentName": "ComponentMattbot3000",
+      "path": "/mattbot-3000/",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/mattbot-3000.tsx",
+      "componentChunkName": "component---src-pages-mattbot-3000-tsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/mattbot-3000.tsx",
+      "id": "SitePage /mattbot-3000/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+<<<<<<< HEAD
+        "contentDigest": "b8f1bd611ab968ad6078d733dcda0c26",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/404.tsx",
+      "componentChunkName": "component---src-pages-404-tsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/404.tsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dd3e45811e75aa7f51180d7fd8d39ad1",
+=======
+        "contentDigest": "5fce2af1bf6a8c9b2698a2ed90ab0052",
+>>>>>>> 1d18d440899072ba1872773c0ff6049cf394af13
         "owner": "internal-data-bridge"
       }
     }
