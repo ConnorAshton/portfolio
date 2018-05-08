@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"data":{"allSitePage":{"totalCount":8,"edges":[{"node":{"path":"/a-markdown-page/"}},{"node":{"path":"/404/"}},{"node":{"path":"/about/"}},{"node":{"path":"/bookshelf/"}},{"node":{"path":"/contact/"}},{"node":{"path":"/"}},{"node":{"path":"/nebula-live/"}},{"node":{"path":"/404.html"}}]}},"pathContext":{}}
-=======
-{"data":{"allSitePage":{"totalCount":9,"edges":[{"node":{"path":"/a-markdown-page/"}},{"node":{"path":"/404/"}},{"node":{"path":"/about/"}},{"node":{"path":"/bookshelf/"}},{"node":{"path":"/contact/"}},{"node":{"path":"/"}},{"node":{"path":"/nebula-live/"}},{"node":{"path":"/404.html"}},{"node":{"path":"/mattbot-3000/"}}]}},"pathContext":{}}
->>>>>>> 1d18d440899072ba1872773c0ff6049cf394af13
+{"data":{"allSitePage":{"totalCount":10,"edges":[{"node":{"path":"/a-markdown-page/"}},{"node":{"path":"/404/"}},{"node":{"path":"/about/"}},{"node":{"path":"/bookshelf/"}},{"node":{"path":"/contact/"}},{"node":{"path":"/"}},{"node":{"path":"/LAD-app/"}},{"node":{"path":"/mattbot-3000/"}},{"node":{"path":"/nebula-live/"}},{"node":{"path":"/404.html"}}]}},"pathContext":{}}

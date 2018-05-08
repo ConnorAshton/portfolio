@@ -31,7 +31,9 @@ export default () => (
       <div>
             <MainBodyHolder> 
                   <HomepageText/>
+                  <Link to="/LAD-app/">
                   <ProjectCard image={ladAppImage} />
+                  </Link>
                   <ProjectCard image={luxModernImage} />
                   <ProjectCard image={fortyWinksImage} />
                   <ProjectCard image={babbelImage} />
