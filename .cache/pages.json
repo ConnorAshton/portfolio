@@ -49,6 +49,20 @@
         "path": "/"
     },
     {
+        "componentChunkName": "component---src-pages-lad-app-tsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lad-app.json",
+        "path": "/LAD-app/"
+    },
+    {
+        "componentChunkName": "component---src-pages-mattbot-3000-tsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "mattbot-3000.json",
+        "path": "/mattbot-3000/"
+    },
+    {
         "componentChunkName": "component---src-pages-nebula-live-tsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -61,12 +75,5 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
-    },
-    {
-        "componentChunkName": "component---src-pages-mattbot-3000-tsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "mattbot-3000.json",
-        "path": "/mattbot-3000/"
     }
 ]

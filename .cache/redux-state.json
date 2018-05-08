@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6b6619fa49e9627b0364f4ddf69f2630",
+        "contentDigest": "859209a247d22ffa4b12fcca48b0edcd",
         "owner": "internal-data-bridge"
       }
     },
@@ -1756,12 +1756,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-08T14:09:51.725Z",
+      "buildTime": "2018-05-08T18:36:12.367Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4e6f1a47ff47a62d4aa33f7abd9563e1",
+        "contentDigest": "c074347a3ae134dbad6d69b9ca7082b1",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1771,7 +1771,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cb4e4e28306bf16fbfc0a722bed916cf",
+        "contentDigest": "b182dbf7da5741b3df78d124f772875e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1782,7 +1782,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-03T17:05:04.759Z",
-      "accessTime": "2018-05-08T14:09:54.444Z",
+      "accessTime": "2018-05-08T18:36:16.472Z",
       "changeTime": "2018-05-03T17:05:04.759Z",
       "birthTime": "2018-05-03T17:05:04.757Z",
       "root": "/",
@@ -1800,7 +1800,7 @@
       "blksize": 4194304,
       "ino": 8606766758,
       "blocks": 0,
-      "atime": "2018-05-08T14:09:54.444Z",
+      "atime": "2018-05-08T18:36:16.472Z",
       "mtime": "2018-05-03T17:05:04.759Z",
       "ctime": "2018-05-03T17:05:04.759Z",
       "birthtime": "2018-05-03T17:05:04.757Z"
@@ -1822,7 +1822,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-05-03T17:05:04.758Z",
-      "accessTime": "2018-05-03T18:32:35.245Z",
+      "accessTime": "2018-05-08T14:09:58.457Z",
       "changeTime": "2018-05-03T17:05:04.758Z",
       "birthTime": "2018-05-03T17:05:04.758Z",
       "root": "/",
@@ -1840,7 +1840,7 @@
       "blksize": 4194304,
       "ino": 8606766759,
       "blocks": 0,
-      "atime": "2018-05-03T18:32:35.245Z",
+      "atime": "2018-05-08T14:09:58.457Z",
       "mtime": "2018-05-03T17:05:04.758Z",
       "ctime": "2018-05-03T17:05:04.758Z",
       "birthtime": "2018-05-03T17:05:04.758Z"
@@ -1864,7 +1864,7 @@
       "size": 533,
       "prettySize": "533 B",
       "modifiedTime": "2018-05-03T17:05:04.759Z",
-      "accessTime": "2018-05-04T08:21:38.049Z",
+      "accessTime": "2018-05-08T14:09:54.920Z",
       "changeTime": "2018-05-03T17:05:04.759Z",
       "birthTime": "2018-05-03T17:05:04.759Z",
       "root": "/",
@@ -1882,7 +1882,7 @@
       "blksize": 4194304,
       "ino": 8606766760,
       "blocks": 8,
-      "atime": "2018-05-04T08:21:38.049Z",
+      "atime": "2018-05-08T14:09:54.920Z",
       "mtime": "2018-05-03T17:05:04.759Z",
       "ctime": "2018-05-03T17:05:04.759Z",
       "birthtime": "2018-05-03T17:05:04.759Z"
@@ -1932,7 +1932,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0b03fb8cacbaa40a577c1c86fd22d8f1",
+        "contentDigest": "645b4f24ee80e5c82e18c2b670457842",
         "owner": "internal-data-bridge"
       }
     },
@@ -1952,7 +1952,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "afb6a25a1308b29e285eb4a2a0cfb991",
+        "contentDigest": "f735c196cce93bd8063108b9e512ec45",
         "owner": "internal-data-bridge"
       }
     },
@@ -1972,7 +1972,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4ff3b73467058371d1ed2d540f7e44ae",
+        "contentDigest": "1e3b2e66da90aa82bdae0836ad57c9cb",
         "owner": "internal-data-bridge"
       }
     },
@@ -1992,7 +1992,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f6cb0ab0009b44d96a8e45716aca9641",
+        "contentDigest": "f57aea0f9c8fb5f35e973e01e726e532",
         "owner": "internal-data-bridge"
       }
     },
@@ -2012,7 +2012,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "15a998a1333079b1ba38e677086858b8",
+        "contentDigest": "9ee9da30748f70146dc47b586c10f479",
         "owner": "internal-data-bridge"
       }
     },
@@ -2032,47 +2032,27 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d25ca958dc8c0637d9d4f7366a818a70",
+        "contentDigest": "15487cb932e5f698a5c4b2b44a14d6b0",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /nebula-live/": {
+    "SitePage /LAD-app/": {
       "layout": "index",
-      "jsonName": "nebula-live.json",
-      "internalComponentName": "ComponentNebulaLive",
-      "path": "/nebula-live/",
-      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx",
-      "componentChunkName": "component---src-pages-nebula-live-tsx",
+      "jsonName": "lad-app.json",
+      "internalComponentName": "ComponentLadApp",
+      "path": "/LAD-app/",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/LAD-app.tsx",
+      "componentChunkName": "component---src-pages-lad-app-tsx",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx",
-      "id": "SitePage /nebula-live/",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/LAD-app.tsx",
+      "id": "SitePage /LAD-app/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b8f1bd611ab968ad6078d733dcda0c26",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/404.tsx",
-      "componentChunkName": "component---src-pages-404-tsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/404.tsx",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "dd3e45811e75aa7f51180d7fd8d39ad1",
+        "contentDigest": "dbfac3fd25f4dde118a176e8b479c70e",
         "owner": "internal-data-bridge"
       }
     },
@@ -2092,7 +2072,47 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5fce2af1bf6a8c9b2698a2ed90ab0052",
+        "contentDigest": "52cc502bd74bfab0b1cb5323008c142e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /nebula-live/": {
+      "layout": "index",
+      "jsonName": "nebula-live.json",
+      "internalComponentName": "ComponentNebulaLive",
+      "path": "/nebula-live/",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx",
+      "componentChunkName": "component---src-pages-nebula-live-tsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx",
+      "id": "SitePage /nebula-live/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "63032be3f687ebdc59f67c5c8a65b93b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/404.tsx",
+      "componentChunkName": "component---src-pages-404-tsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/src/pages/404.tsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "77d98278e3c8a970d0d34f57c4ce6a95",
         "owner": "internal-data-bridge"
       }
     }
@@ -2104,9 +2124,7 @@
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/a-markdown-page/",
-        "LAYOUT___index",
-        "LAYOUT___boilerplate"
+        "/a-markdown-page/"
       ],
       "/Users/connorashton/Development/connor-ashton-portfolio/src/content/a-markdown-page.md absPath of file >>> MarkdownRemark": [
         "/a-markdown-page/"
