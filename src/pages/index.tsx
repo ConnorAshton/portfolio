@@ -38,9 +38,11 @@ export default () => (
                   <Link to="/nebula-live/">
                   <ProjectCard image={nebulaImage} />
                   </Link>
-                  <ProjectCard image={drizzleApp}/>>
+                  <ProjectCard image={drizzleApp}/>
                   <ProjectCard image={smartCell} />
+                  <Link to="/mattbot-3000/">
                   <ProjectCard image={mattBot} />
+                  </Link>
                   <DesignGrid>
                         <DesignCard image={design1}/>
                         <DesignCard image={design2}/>
