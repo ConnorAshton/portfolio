@@ -69,4 +69,4 @@ export const sh8body = `- MVVM
 
 export const sh9 = `Disclaimer`
 
-export const sh9body = `Due to the app still being in beta release I’m unable to go into too much detail around the technicalities, implementation, and roadmap of the application out of respect and confidentiality to the company. However, I’m able to discuss this in a one on one situation if you would like to get in touch.`
+export const sh9body = `The app is currently in closed beta, more detail can be provided upon request.`
