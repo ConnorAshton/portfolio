@@ -34,19 +34,19 @@ export default () => (
                   <Link to="/LAD-app/">
                   <ProjectCard image={ladAppImage} />
                   </Link>
-                  <ProjectCard image={luxModernImage} />
-                  <ProjectCard image={fortyWinksImage} />
-                  <ProjectCard image={babbelImage} />
-                  <Link to="/nebula-live/">
-                  <ProjectCard image={nebulaImage} />
-                  </Link>
-                  <ProjectCard image={drizzleApp}/>
-                  <Link to ="/smartcell/">
-                  <ProjectCard image={smartCell} />
-                  </Link>
                   <Link to="/mattbot-3000/">
                   <ProjectCard image={mattBot} />
                   </Link>
+                  <Link to="/nebula-live/">
+                  <ProjectCard image={nebulaImage} />
+                  </Link>
+                  <Link to ="/smartcell/">
+                  <ProjectCard image={smartCell} />
+                  </Link>    
+                  <ProjectCard image={luxModernImage} />
+                  <ProjectCard image={fortyWinksImage} />
+                  <ProjectCard image={babbelImage} />            
+                  <ProjectCard image={drizzleApp}/>                           
                   <DesignGrid>
                         <DesignCard image={design1}/>
                         <DesignCard image={design2}/>

@@ -45,5 +45,4 @@ export const LinkText = styled.text`
     font-size: 18px;
     text-align: center;
     color: #4a4a4a;
-
 `
