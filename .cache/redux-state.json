@@ -7,7 +7,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+=======
+        "contentDigest": "badf8f07521d744dd8db3bf9c90079d5",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -227,6 +231,78 @@
       "children": [],
       "internal": {
         "contentDigest": "de476568e056ecf385131589758ca517",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Users/connorashton/Development/connor-ashton-portfolio/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.31",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-76366395-2",
+        "head": false,
+        "anonymize": true,
+        "respectDNT": true,
+        "exclude": [
+          "/preview/**",
+          "/do-not-track/me/too/"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/connorashton/Development/connor-ashton-portfolio/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ce4edc331f1c05de35e13c754ac7f81c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1535,7 +1611,7 @@
       "resolve": "/Users/connorashton/Development/connor-ashton-portfolio",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "255d80a59347390fcd04e28df6762254",
+      "version": "11afe89aeea7730994d7f56e36384829",
       "pluginOptions": {
         "plugins": []
       },
@@ -1572,6 +1648,10 @@
           {
             "name": "gatsby-plugin-canonical-urls",
             "version": "^1.0.14"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.31"
           },
           {
             "name": "gatsby-plugin-react-helmet",
@@ -1727,7 +1807,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a74698850b4722f709b3f85c1aea920e",
+        "contentDigest": "a2a5f99fb9427dd3d24636d01b4c7771",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1745,12 +1825,20 @@
       },
       "pathPrefix": "",
       "polyfill": true,
+<<<<<<< HEAD
       "buildTime": "2018-05-09T16:38:12.541Z",
+=======
+      "buildTime": "2018-05-09T16:20:21.290Z",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
+<<<<<<< HEAD
         "contentDigest": "187ad65d996089a74caf8f50006591ab",
+=======
+        "contentDigest": "6e841f5cec886a43ad5e139495b0d04c",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1760,7 +1848,11 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
+<<<<<<< HEAD
         "contentDigest": "0bac7a7289c164364767a99bb69f208e",
+=======
+        "contentDigest": "ab366337ff0cca8da30aedc3c13e8d81",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1771,7 +1863,11 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-03T17:05:04.759Z",
+<<<<<<< HEAD
       "accessTime": "2018-05-09T16:38:17.883Z",
+=======
+      "accessTime": "2018-05-09T16:20:25.973Z",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
       "changeTime": "2018-05-03T17:05:04.759Z",
       "birthTime": "2018-05-03T17:05:04.757Z",
       "root": "/",
@@ -1789,7 +1885,11 @@
       "blksize": 4194304,
       "ino": 8606766758,
       "blocks": 0,
+<<<<<<< HEAD
       "atime": "2018-05-09T16:38:17.883Z",
+=======
+      "atime": "2018-05-09T16:20:25.973Z",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
       "mtime": "2018-05-03T17:05:04.759Z",
       "ctime": "2018-05-03T17:05:04.759Z",
       "birthtime": "2018-05-03T17:05:04.757Z"
@@ -1811,7 +1911,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-05-03T17:05:04.758Z",
-      "accessTime": "2018-05-08T14:09:58.457Z",
+      "accessTime": "2018-05-09T16:10:55.965Z",
       "changeTime": "2018-05-03T17:05:04.758Z",
       "birthTime": "2018-05-03T17:05:04.758Z",
       "root": "/",
@@ -1829,7 +1929,7 @@
       "blksize": 4194304,
       "ino": 8606766759,
       "blocks": 0,
-      "atime": "2018-05-08T14:09:58.457Z",
+      "atime": "2018-05-09T16:10:55.965Z",
       "mtime": "2018-05-03T17:05:04.758Z",
       "ctime": "2018-05-03T17:05:04.758Z",
       "birthtime": "2018-05-03T17:05:04.758Z"
@@ -1853,7 +1953,7 @@
       "size": 533,
       "prettySize": "533 B",
       "modifiedTime": "2018-05-03T17:05:04.759Z",
-      "accessTime": "2018-05-08T14:09:54.920Z",
+      "accessTime": "2018-05-09T16:10:55.579Z",
       "changeTime": "2018-05-03T17:05:04.759Z",
       "birthTime": "2018-05-03T17:05:04.759Z",
       "root": "/",
@@ -1871,7 +1971,7 @@
       "blksize": 4194304,
       "ino": 8606766760,
       "blocks": 8,
-      "atime": "2018-05-08T14:09:54.920Z",
+      "atime": "2018-05-09T16:10:55.579Z",
       "mtime": "2018-05-03T17:05:04.759Z",
       "ctime": "2018-05-03T17:05:04.759Z",
       "birthtime": "2018-05-03T17:05:04.759Z"
@@ -1921,7 +2021,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "1e46aeafcf75b80c353c8c732435c221",
+=======
+        "contentDigest": "d570b19eda59d7a29ad69d28725f087d",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -1941,7 +2045,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "033bdc7af440e5ba3e763156f991d21e",
+=======
+        "contentDigest": "19a551bcf5fdfc8082d49b909e30df03",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -1961,7 +2069,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "3d0334e0596b048c27fb780818581cb9",
+=======
+        "contentDigest": "e82274cc2c4ecbf09612ef5a5b8587fd",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -1981,7 +2093,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "307e68277a7f89256bf8997b0d6a42af",
+=======
+        "contentDigest": "237d4b8cb763ec7407160da32cd6497f",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -2001,7 +2117,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "c89264c84f232532a274fd4aa78d1f98",
+=======
+        "contentDigest": "00d56e8c0c294bc705bd1a413bf5a156",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -2021,7 +2141,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "af38e01667af861446a077684438ca89",
+=======
+        "contentDigest": "e08cd4318ff18d81d37d01dfabe241cc",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -2041,7 +2165,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "283a81698f479ceef8ec44c87f1a17f2",
+=======
+        "contentDigest": "ff9dcc83c87a44eeebedd523447d52cf",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -2061,7 +2189,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "08b76799cfe0ba3207cd4f1b1ccf7215",
+=======
+        "contentDigest": "8a7e2840e81495834623a2a913ee9da7",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -2081,7 +2213,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "c72e98455b8f948cd89b0b9794473a31",
+=======
+        "contentDigest": "46da3a40b29c60131f1a7059d0e43df1",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -2101,7 +2237,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "1ed73a1b53cc4eddbfa660fc9301d0a8",
+=======
+        "contentDigest": "39f40749e5e3b225b13c8cfa4f697ead",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     },
@@ -2121,14 +2261,18 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "68e1f40a46b81a72da7e9a0e4d5c34d5",
+=======
+        "contentDigest": "2266e1d20922192d5458c9a5d29e1d1d",
+>>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "79e62710ab3c153bae529bc472287bd4"
+    "PLUGINS_HASH": "4ec691253c3642f17d4e31796a637391"
   },
   "componentDataDependencies": {
     "nodes": {

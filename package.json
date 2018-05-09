@@ -23,6 +23,7 @@
     "gatsby": "^1.9.223",
     "gatsby-link": "^1.6.38",
     "gatsby-plugin-canonical-urls": "^1.0.14",
+    "gatsby-plugin-google-analytics": "^1.0.31",
     "gatsby-plugin-react-helmet": "^2.0.6",
     "gatsby-plugin-react-next": "^1.0.10",
     "gatsby-plugin-sharp": "^1.6.38",
