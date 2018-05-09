@@ -1,4 +1,7 @@
 var plugins = [{
+      plugin: require('/Users/connorashton/Development/connor-ashton-portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
+      options: {"plugins":[],"trackingId":"UA-76366395-2","head":false,"anonymize":true,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"]},
+    },{
       plugin: require('/Users/connorashton/Development/connor-ashton-portfolio/node_modules/gatsby-plugin-canonical-urls/gatsby-ssr.js'),
       options: {"plugins":[],"siteUrl":"https://gatsby-starter-typescript-plus.netlify.com"},
     },{

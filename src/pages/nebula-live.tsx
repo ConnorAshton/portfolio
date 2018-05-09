@@ -12,6 +12,8 @@ import { ProjectBodyWide } from '../components/ProjectPageComponents/component-p
 import { Title, Subtitle, sh1, sh1body, sh2, sh2body, sh3, sh3body, wb1, wb2, sh4, sh4body, sh5, sh5body, sh6, sh6body } from '../projects/nebula-live'
 
 const nebulaHeader = require('../assets/nebula-project-header.png')
+const nebulaUserRequirements = require('../assets/nebula-project-user-requirements.png')
+const nebulaUseCases = require('../assets/nebula-project-use-cases.png')
 const nebulaUIDesigns = require('../assets/nebula-project-ui.png')
 const nebulaUserInterview = require('../assets/nebula-project-interview.png')
 const nebulaAppStore = require('../assets/nebula-project-app-store.png')
@@ -26,11 +28,11 @@ export default () => (
       <ProjectSectionCard sectionTitle={sh2} sectionBody={sh2body}/>
       <ProjectSectionCard sectionTitle={sh3} sectionBody={sh3body}/>
     </MainBodyHolder>
-    <ProjectImage/>
+    <ProjectImage image={nebulaUserRequirements}/>
     <MainBodyHolder>
     <ProjectBodyWide bodyText={wb1}/>
     </MainBodyHolder>
-    <ProjectImage/>
+    <ProjectImage image={nebulaUseCases}/>
     <MainBodyHolder>
       <ProjectBodyWide bodyText={wb2}/>
       <ProjectSectionCard sectionTitle={sh4} sectionBody={sh4body}/>
