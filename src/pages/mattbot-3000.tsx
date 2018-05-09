@@ -9,7 +9,7 @@ import { ProjectSectionCard } from '../components/ProjectPageComponents/componen
 import { ProjectImage } from '../components/ProjectPageComponents/component-project-image'
 import { ProjectBodyWide } from '../components/ProjectPageComponents/component-project-body-wide'
 
-import { Title, Subtitle, sh1, sh1body, sh2, sh2body, sh3, sh3body, wb1, sh4, sh4body, sh5, sh5body } from '../projects/mattbot'
+import { Title, Subtitle, sh1, sh1body, sh2, sh2body, sh3, sh3body, sh4, sh4body, wb1, sh5, sh5body } from '../projects/mattbot'
 
 const mattbotHeader = require('../assets/mattbot-project-header.png')
 const mattbotOldInterface = require('../assets/mattbot-project-old-interface.png')

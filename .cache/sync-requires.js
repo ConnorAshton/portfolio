@@ -16,7 +16,8 @@ exports.components = {
   "component---src-pages-index-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/index.tsx")),
   "component---src-pages-lad-app-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/LAD-app.tsx")),
   "component---src-pages-mattbot-3000-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/mattbot-3000.tsx")),
-  "component---src-pages-nebula-live-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx"))
+  "component---src-pages-nebula-live-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/nebula-live.tsx")),
+  "component---src-pages-smartcell-tsx": preferDefault(require("/Users/connorashton/Development/connor-ashton-portfolio/src/pages/smartcell.tsx"))
 }
 
 exports.json = {
@@ -40,6 +41,8 @@ exports.json = {
   "mattbot-3000.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/mattbot-3000.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "nebula-live.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/nebula-live.json"),
+  "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
+  "smartcell.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/smartcell.json"),
   "layout-index.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/layout-index.json"),
   "404-html.json": require("/Users/connorashton/Development/connor-ashton-portfolio/.cache/json/404-html.json")
 }
