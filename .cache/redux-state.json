@@ -1,17 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/connorashton/Development/connor-ashton-portfolio/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/connorashton/Development/connor-ashton-portfolio/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
-=======
-        "contentDigest": "badf8f07521d744dd8db3bf9c90079d5",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "7fa1bd35e755ed004753f862d0a1c5f9",
         "owner": "internal-data-bridge"
       }
     },
@@ -1823,22 +1828,16 @@
           "email": "resir014@gmail.com"
         }
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-<<<<<<< HEAD
-      "buildTime": "2018-05-09T16:38:12.541Z",
-=======
-      "buildTime": "2018-05-09T16:20:21.290Z",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+      "buildTime": "2018-05-09T19:19:04.774Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-<<<<<<< HEAD
-        "contentDigest": "187ad65d996089a74caf8f50006591ab",
-=======
-        "contentDigest": "6e841f5cec886a43ad5e139495b0d04c",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "64dc7d7480c056fa08cd468b458f0d01",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1848,11 +1847,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-<<<<<<< HEAD
-        "contentDigest": "0bac7a7289c164364767a99bb69f208e",
-=======
-        "contentDigest": "ab366337ff0cca8da30aedc3c13e8d81",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "89de9ed090daa7531893bd50d009d2f5",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1863,11 +1858,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-03T17:05:04.759Z",
-<<<<<<< HEAD
-      "accessTime": "2018-05-09T16:38:17.883Z",
-=======
-      "accessTime": "2018-05-09T16:20:25.973Z",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+      "accessTime": "2018-05-09T19:19:09.865Z",
       "changeTime": "2018-05-03T17:05:04.759Z",
       "birthTime": "2018-05-03T17:05:04.757Z",
       "root": "/",
@@ -1885,11 +1876,7 @@
       "blksize": 4194304,
       "ino": 8606766758,
       "blocks": 0,
-<<<<<<< HEAD
-      "atime": "2018-05-09T16:38:17.883Z",
-=======
-      "atime": "2018-05-09T16:20:25.973Z",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+      "atime": "2018-05-09T19:19:09.865Z",
       "mtime": "2018-05-03T17:05:04.759Z",
       "ctime": "2018-05-03T17:05:04.759Z",
       "birthtime": "2018-05-03T17:05:04.757Z"
@@ -1911,7 +1898,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2018-05-03T17:05:04.758Z",
-      "accessTime": "2018-05-09T16:10:55.965Z",
+      "accessTime": "2018-05-09T16:38:21.560Z",
       "changeTime": "2018-05-03T17:05:04.758Z",
       "birthTime": "2018-05-03T17:05:04.758Z",
       "root": "/",
@@ -1929,7 +1916,7 @@
       "blksize": 4194304,
       "ino": 8606766759,
       "blocks": 0,
-      "atime": "2018-05-09T16:10:55.965Z",
+      "atime": "2018-05-09T16:38:21.560Z",
       "mtime": "2018-05-03T17:05:04.758Z",
       "ctime": "2018-05-03T17:05:04.758Z",
       "birthtime": "2018-05-03T17:05:04.758Z"
@@ -1953,7 +1940,7 @@
       "size": 533,
       "prettySize": "533 B",
       "modifiedTime": "2018-05-03T17:05:04.759Z",
-      "accessTime": "2018-05-09T16:10:55.579Z",
+      "accessTime": "2018-05-09T16:38:18.774Z",
       "changeTime": "2018-05-03T17:05:04.759Z",
       "birthTime": "2018-05-03T17:05:04.759Z",
       "root": "/",
@@ -1971,7 +1958,7 @@
       "blksize": 4194304,
       "ino": 8606766760,
       "blocks": 8,
-      "atime": "2018-05-09T16:10:55.579Z",
+      "atime": "2018-05-09T16:38:18.774Z",
       "mtime": "2018-05-03T17:05:04.759Z",
       "ctime": "2018-05-03T17:05:04.759Z",
       "birthtime": "2018-05-03T17:05:04.759Z"
@@ -2021,11 +2008,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "1e46aeafcf75b80c353c8c732435c221",
-=======
-        "contentDigest": "d570b19eda59d7a29ad69d28725f087d",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "aacc13986ec0eeda2e97865b7d90403a",
         "owner": "internal-data-bridge"
       }
     },
@@ -2045,11 +2028,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "033bdc7af440e5ba3e763156f991d21e",
-=======
-        "contentDigest": "19a551bcf5fdfc8082d49b909e30df03",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "8ca5a467453a58fc5e28f1bdd02e836f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2069,11 +2048,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "3d0334e0596b048c27fb780818581cb9",
-=======
-        "contentDigest": "e82274cc2c4ecbf09612ef5a5b8587fd",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "99b23ee14c433757173452e0248e545a",
         "owner": "internal-data-bridge"
       }
     },
@@ -2093,11 +2068,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "307e68277a7f89256bf8997b0d6a42af",
-=======
-        "contentDigest": "237d4b8cb763ec7407160da32cd6497f",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "a0a899497e640de106747f84707d5950",
         "owner": "internal-data-bridge"
       }
     },
@@ -2117,11 +2088,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "c89264c84f232532a274fd4aa78d1f98",
-=======
-        "contentDigest": "00d56e8c0c294bc705bd1a413bf5a156",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "1889ec22c96400d016b82209dbd36400",
         "owner": "internal-data-bridge"
       }
     },
@@ -2141,11 +2108,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "af38e01667af861446a077684438ca89",
-=======
-        "contentDigest": "e08cd4318ff18d81d37d01dfabe241cc",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "369712e8b83c3b0b2dc3c723f4585cf2",
         "owner": "internal-data-bridge"
       }
     },
@@ -2165,11 +2128,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "283a81698f479ceef8ec44c87f1a17f2",
-=======
-        "contentDigest": "ff9dcc83c87a44eeebedd523447d52cf",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "b86f87c476fa614593f76a5052efc7c7",
         "owner": "internal-data-bridge"
       }
     },
@@ -2189,11 +2148,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "08b76799cfe0ba3207cd4f1b1ccf7215",
-=======
-        "contentDigest": "8a7e2840e81495834623a2a913ee9da7",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "541ecc785312840bc6d4b8d06b606ec3",
         "owner": "internal-data-bridge"
       }
     },
@@ -2213,11 +2168,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "c72e98455b8f948cd89b0b9794473a31",
-=======
-        "contentDigest": "46da3a40b29c60131f1a7059d0e43df1",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "966326f0ba839e69ee31f5f1d3066aad",
         "owner": "internal-data-bridge"
       }
     },
@@ -2237,11 +2188,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "1ed73a1b53cc4eddbfa660fc9301d0a8",
-=======
-        "contentDigest": "39f40749e5e3b225b13c8cfa4f697ead",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "1192cf65d65c36809239215a52409037",
         "owner": "internal-data-bridge"
       }
     },
@@ -2261,11 +2208,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "68e1f40a46b81a72da7e9a0e4d5c34d5",
-=======
-        "contentDigest": "2266e1d20922192d5458c9a5d29e1d1d",
->>>>>>> d7efc4dd9e329ccfc5d9f82193528fea3cb47c38
+        "contentDigest": "381a4babf18b169119650181b2a6af7f",
         "owner": "internal-data-bridge"
       }
     }
